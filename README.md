@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Hidar37&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
-- 👋 Hi, I’m @Hidar37
+- 👋 Hi, I’m Haider Ahmad [@Hidar37]
 - 👀 I’m interested in Software development
 - 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on different projects
