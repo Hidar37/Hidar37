@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Hidar37&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 - 👋 Hi, I’m Haider Ahmad [@Hidar37]
 - 👀 I’m interested in Software development
-- 🌱 I’m Full Stack Developer
+- 🌱 I’m Full-Stack Developer
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/haider-ahmad-0ba20a224/)
 <br>
