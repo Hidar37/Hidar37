@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Ahmad</h1>
-<h3 align="center">A passionate Fullstack Developer Software Engineer with a love for React, Redux, and Figma designs.</h3>
+<h3 align="center">A passionate Full-Stack Developer and Software Engineer. Ready to change the world.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Hidar37&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 - 👋 Hi, I’m Haider Ahmad [@Hidar37]
