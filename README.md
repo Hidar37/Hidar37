@@ -3,7 +3,8 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/haider-ahmad-0ba20a224/)
+- 📫 How to reach me [Email](hidarahmadjob@gmail.com)
+- 📫 Linkedin Account [Linkedin](https://www.linkedin.com/in/haider-ahmad-0ba20a224/)
 <br>
 
 <p align="left">
